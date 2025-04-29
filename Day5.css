@@ -77,8 +77,6 @@ padding-top: 1vw;
 }
  }
 
-
-
 /* it will start from 576px  and end in 767*/
 /* small screen  */
  @media screen and (min-width:576px) and (max-width:767px){
